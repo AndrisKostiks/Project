@@ -1,0 +1,10 @@
+README
+CREATE
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AndrisKostiks/Project.git
+git push -u origin master
+PUSH
+git remote add origin https://github.com/AndrisKostiks/Project.git
+git push -u origin master
